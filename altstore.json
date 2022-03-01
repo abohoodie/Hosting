@@ -16,19 +16,14 @@
         "tintColor": "018084",
         "size": 5405794,
         "screenshotURLs": [
-          "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
-          "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
-          "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
-        ],
-        "permissions": [
-          {
-            "type": "background-fetch",
-            "usageDescription": "AltStore periodically refreshes apps in the background to prevent them from expiring."
-          },
-          {
-            "type": "background-audio",
-            "usageDescription": "Allows AltStore to run longer than 30 seconds when refreshing apps in background."
-          }
+          "https://youtu.be/9LHVLe6l-Bw",
+          "https://play-lh.googleusercontent.com/BPVU1uxVIK_gZy_JS5Lbsa_TQ0TKeR-18hhrZW5kfL-aBTGgHTZvLyM8zjMWbkispQ=w720-h310-rw",
+          "https://play-lh.googleusercontent.com/WQssPallS3KVSFj0O5Wll8q1-UjJNLBFQXw1N3_i6oTir588KLMHISj90F3RxLU3Vwy7=w720-h310-rw",
+          "https://play-lh.googleusercontent.com/W4WzZmMJDDV4kMylHYuPeXqrHvjw9AKhV-BafMB1SGLAlrg-z8A9uQpS_a1_M1XI5nJ6=w720-h310-rw",
+          "https://play-lh.googleusercontent.com/-HlAniNDXPiKO7sQRP8XmcZ_ULvuB4hXUFRZNcYMBYYWy4Yt3xjib_9AS_EDFgBV6bE=w720-h310-rw",
+          "https://play-lh.googleusercontent.com/5cf6zOz1Uplf0FlXplcGmT04WEZvMSx862QCmlcFSKMQQs9gNWxoFBVFz38Dx3LGsZE=w720-h310-rw",
+          "https://play-lh.googleusercontent.com/VPn0im3dKmMWomcNrUTSDRmkGyjvvVHtIKTS3IJfMPeUDXS-Dz1X41MPx5tn7gI1NBM=w1600-h739-rw",
+          "https://play-lh.googleusercontent.com/LK20R7EpRtHJd_2-5BUXLyNG-E86yby2rSntwt_i2K2lXPFjBzhI7Q6jT5f-P5WpggY=w720-h310-rw"
         ]
       }
     ],
